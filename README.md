@@ -12,11 +12,7 @@ Email: BenGordon8324@gmail.com
 
 #Installation
 
-1. Copy *rubik's.mll* to the plugin folder and load it using Maya's Plug-in Manager.
-2. Drag and drop *drag and drop.py* into the Maya viewport.
-
-**Note:** The drag and drop install records the location of the tool files. If you move or rename the installation folder after installing, Maya will no longer be able to locate the tool. Simply drag *drag and drop.py* into the Maya viewport again to update the installation path.
-
+Drag the install.py file into the maya view port. This will install and load the plugin, create a shelf and button for the Save/Load tool, and add a pre built 3x3x3 Rubik's Cube rig to the projects folder.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
