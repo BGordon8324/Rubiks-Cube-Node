@@ -5,8 +5,12 @@ Version 1.0
 
 Author: Ben Gordon
 GitHub: https://github.com/BGordon8324
-
+Website: https://www.bg3d.art/
 Email: BenGordon8324@gmail.com
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+A full breakdown of the rig design and node architecture can be found on my website at https://www.bg3d.art/rubikscube
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
